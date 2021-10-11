@@ -1,0 +1,18 @@
+{
+    "name": "gregzhang/increase",
+    "description": "increase",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gregzhang\\Increase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Greg Zhang",
+            "email": "gregzhang@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
